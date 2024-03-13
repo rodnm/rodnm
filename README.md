@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Economic Science student at PUCP
+I'm an Economic Science student from [PUCP](https://www.pucp.edu.pe/)
 
 
 ## 🌐 Socials:
