@@ -45,5 +45,5 @@ Hobbies: games 🎮 | manga 📖 | movies 📼 | nature outdoors 🌳
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/FPsODnFH-dEAAAAC/typing-fast.gif" alt="animated"/>
+  <img src="https://media1.tenor.com/m/FPsODnFH-dEAAAAC/typing-fast.gif" alt="animated" width="400"/>
 </p>
