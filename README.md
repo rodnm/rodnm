@@ -42,6 +42,8 @@ Hobbies: games 🎮 | manga 📖 | movies 📼 | nature outdoors 🌳
 ### Otras Herramientas y Plataformas
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-yellow.svg?style=for-the-badge&logo=ArcGIS&logoColor) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/FPsODnFH-dEAAAAC/typing-fast.gif" alt="animated"/>
+</p>
