@@ -8,7 +8,7 @@ Hobbies: games 🎮 | manga 📖 | movies 📼 | nature outdoors 🌳
 📫 How to reach me: rodrigo.norabuena@pucp.edu.pe
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-norabuena) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodnm/) 
 
 ## 💻 Skills
 
