@@ -16,8 +16,6 @@
   </a>
 </p>
 
----
-
 ## 🧭 About Me
 
 I'm an Economist (PUCP, 2024) who works across the full data lifecycle — from defining the right question and choosing the right methodology, to building the pipelines and models that produce the answer.
@@ -31,8 +29,6 @@ At **CENTRUM PUCP** I design relational databases, build end-to-end ETL processe
 - 🔭 Currently expanding my portfolio with ML pipelines, RAG systems, and economic forecasting models
 - 🌎 Based in Lima, Perú — open to data science, analytics, and data/AI engineering roles
 
----
-
 ## 🚀 Featured Projects
 
 ### 🔬 [OpenAlex Research Dashboard](https://github.com/rodnm/openalex-research-dashboard)
@@ -42,8 +38,6 @@ At **CENTRUM PUCP** I design relational databases, build end-to-end ETL processe
 - Ingests data from the OpenAlex API and surfaces it through a **Streamlit** dashboard with dynamic filters by field, year, and institution
 - **Stack:** Python · Pandas · Plotly · Airflow · Docker · Streamlit
 
----
-
 ### 📈 [Crypto Market Monitor](https://github.com/rodnm/crypto-monitor)
 > Real-time crypto market tracker with interactive visualizations
 
@@ -51,16 +45,12 @@ At **CENTRUM PUCP** I design relational databases, build end-to-end ETL processe
 - Features a treemap of market cap, 7-day trend charts, and a dynamic theming system
 - **Stack:** Python · Streamlit · Plotly
 
----
-
 ### 🌍 [Rare Earth World Trade Analysis](https://github.com/rodnm/proyect_powebi_rare-earth)
 > Exploratory analysis of rare earth trade flows (1995–2022)
 
 - Analyzed global rare earth trade data from OEC, mapping top exporters, importers, and trade balances by country
 - Built an interactive **Power BI** dashboard published to Power BI Service, with data cleaning and transformation in **R**
 - **Stack:** R · Power BI · DAX
-
----
 
 ## 🛠️ Tech Stack
 
@@ -108,8 +98,6 @@ At **CENTRUM PUCP** I design relational databases, build end-to-end ETL processe
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge)
 
----
-
 ## 📌 Currently Building
 
 | Project | Description | Status |
@@ -118,8 +106,6 @@ At **CENTRUM PUCP** I design relational databases, build end-to-end ETL processe
 | 📚 RAG pipeline | LangChain + ChromaDB document QA | 🔨 In progress |
 | 📊 Customer segmentation | Churn model + RFM segmentation | 🗂️ Planned |
 | 📉 Economic forecasting | Time-series with Peruvian public data | 🗂️ Planned |
-
----
 
 <p align="center">
   <i>Open to data science, analytics engineering, and AI roles in Lima, Perú.</i><br/><br/>
