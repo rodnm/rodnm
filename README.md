@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rodnm/">LinkedIn</a> ·
   <a href="https://rodnm.github.io/">Portfolio</a> ·
-  <a href="mailto:rodrigo.norabuena@pucp.edu.pe">Email</a>
+  <a href="mailto:rodrigoandres.norabuena@gmail.com">Email</a>
 </p>
 
 ---
