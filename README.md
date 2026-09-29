@@ -35,7 +35,7 @@ Roles where the job is **answering the question, not just preparing the data**: 
 
 ## What I'm working on
 
-- 📚 **Q-LAB PUCP Diplomatura** in quantitative methods (2026–2027), after completing two Winter School cohorts (2025, 2026).
+- 📚 **Q-LAB PUCP Diplomatura Ciencia de Datos para las Ciencias Sociales y la Gestión Pública** in quantitative methods (2026–2027), after completing two Winter School cohorts (2025, 2026).
 - 🧠 **GCI World 2026** (in progress).
 - ✍️ A research article on **labor informality in Peru** (in progress).
 - 🎓 Longer term: postgraduate studies in development economics.
